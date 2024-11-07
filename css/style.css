@@ -1,0 +1,59 @@
+.hi{
+	height: 100px;
+}
+.header{
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 200px;
+	background-color: green;
+
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 200px;
+	background-color: yellow;
+	border: 5px solid;
+	box-sizing: border-box;
+
+}
+.item{
+	float: left;
+	width: 25%;
+	height: 100px;
+
+}
+
+.a{
+	background-color: #00FF00;
+
+}
+.b{
+	background-color: #FF00FF;
+	border: 6px solid #FF5F1F;
+	box-sizing: border-box;
+
+}
+.c{
+	background-color: #FFA500;
+
+}
+.d{
+	background-color: #00FFFF;
+
+}
+.footer{
+	background-color: blue;
+}
+h1{
+	display:inline-block;
+}
+p{
+	display: inline;
+}
